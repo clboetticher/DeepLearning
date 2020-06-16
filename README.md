@@ -19,3 +19,6 @@ The portfolio of projects in this repository cover the following:
 * A2: Deep neural networks for computer vision
 * A3: Deep neural networks for Natural Language Processing (NLP)
 * A4: Deep neural language models for text generation 
+
+
+Formal reports on each project - outlining data source, objectives, methods, results, and conclusions - are contained in the [pdfs folder](https://github.com/clboetticher/DeepLearning/tree/master/pdfs). 
