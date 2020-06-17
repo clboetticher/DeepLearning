@@ -12,7 +12,7 @@ The portfolio of projects in this repository cover the following:
 
 Formal reports on each project - outlining data source, objectives, methods, results, and conclusions - are contained in the [pdfs folder](https://github.com/clboetticher/DeepLearning/tree/master/pdfs).<br>
 
-**Course overview**
+**Course overview**<br>
 An introduction to the field of artificial intelligence, this course illustrates probability-rule-based generative models as well as discriminative models that learn from training data. The course reviews applications of artificial intelligence and deep learning in vision and language processing. Students learn best practices for building supervised learning models and, in particular, deep neural networks for classification and regression. Students also learn about feature engineering, autoencoders, and strategies of unsupervised and semi-supervised learning, as well as reinforcement learning. This is a project-based course with extensive programming assignments. 
 
 Learning outcomes include the ability to:
